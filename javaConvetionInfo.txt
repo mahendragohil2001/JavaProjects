@@ -5,3 +5,6 @@ JAVa is a powerfull Lang.
 
 
 java 8 is introduce
+
+
+java  8 streams introduce
