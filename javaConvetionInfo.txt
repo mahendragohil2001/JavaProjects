@@ -1,2 +1,4 @@
 Varibles are small letters.
 Java is a plateform independent langa
+
+JAVa is a powerfull Lang.
