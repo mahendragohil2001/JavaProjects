@@ -5,3 +5,5 @@ JAVa is a powerfull Lang.
 
 
 java 8 is introduce
+
+final Copy
