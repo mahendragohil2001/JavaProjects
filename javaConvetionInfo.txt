@@ -1,3 +1,5 @@
+
+
 Varibles are small letters.
 Java is a plateform independent langa
 
@@ -8,3 +10,5 @@ java 8 is introduce
 
 
 java  8 streams introduce
+
+Done
