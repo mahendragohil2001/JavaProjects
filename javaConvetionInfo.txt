@@ -1,3 +1,5 @@
+
+
 Varibles are small letters.
 Java is a plateform independent langa
 
@@ -6,4 +8,11 @@ JAVa is a powerfull Lang.
 
 java 8 is introduce
 
+
+
+java  8 streams introduce
+
+Done
+
 final Copy
+
